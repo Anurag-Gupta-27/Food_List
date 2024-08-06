@@ -1,0 +1,12 @@
+.item{
+    margin: 5px;
+    padding: 5px;
+}
+
+.buyButton{
+    float: right;
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    border: none;
+}

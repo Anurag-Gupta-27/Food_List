@@ -1,0 +1,10 @@
+.foodInput{
+    width: 100%;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.foodText{
+    padding: 10px;
+    font-weight: bold;
+}

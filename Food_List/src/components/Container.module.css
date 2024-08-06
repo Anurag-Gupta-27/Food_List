@@ -1,0 +1,7 @@
+/* this file is called modular css which applies to only a single file */
+.container{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    min-width: 300px;
+}
